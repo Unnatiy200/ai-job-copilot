@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langgraph
+langchain-groq
+chromadb
+psycopg2-binary
+sqlalchemy
+alembic
+streamlit
+pypdf2
+pdfplumber
+requests
+httpx
